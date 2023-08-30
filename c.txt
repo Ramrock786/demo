@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am from Branch2
+=======
+I am from GNT
+>>>>>>> master
